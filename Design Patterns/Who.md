@@ -1,1 +1,3 @@
 Most developers follow design patterns wether they know it or not. That is okay. I've read about it today and I just found out I've ben using it. It is just repeating actions programmers do to solve most problems and someone decided to give it a name. No discovery here just a clever observation from "The four gang" or whatever they are called.
+
+https://refactoring.guru/design-patterns/factory-method
