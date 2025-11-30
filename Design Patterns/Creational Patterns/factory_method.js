@@ -1,3 +1,8 @@
+// The factory method is basically just having a parent class that can create different versions
+// of an object. The attributes of said objects can be altered in the "factory" class.
+// This makes code cleaner by having all changes implemented in a single location instead of having 2+ classes to update when there 
+// is a code change.
+
 class Animal {
   speak() { }
 }
