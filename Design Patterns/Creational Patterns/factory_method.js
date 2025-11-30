@@ -42,6 +42,8 @@ class CatCreator extends AnimalCreator {
   }
 }
 
+
+// Running this would create the animals and produce the sounds they make in the terminal
 const dogCreator = new DogCreator();
 console.log(dogCreator.makeSound());
 
